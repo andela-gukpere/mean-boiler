@@ -6,7 +6,7 @@ dependencies:
 test:
   override:
 deployment:
-  staging:
+  production:
     branch: master
     heroku:
       appname: mean-boiler

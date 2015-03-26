@@ -2,7 +2,7 @@
   "name": "starter-node-angular",
   "main": "index.js",
   "scripts": {
-    "test": "say ball so hard mothertruckers trynna find me. Move so fast you lil triggers lag behind me."
+    "test": "echo OK && exit 0"
   },
   "dependencies": {
     "body-parser": "~1.4.2",

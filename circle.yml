@@ -1,10 +1,8 @@
 dependencies:
  pre:
   - bower install
- post:
   - npm install
-test:
-  override:
+ post:
 deployment:
   production:
     branch: master

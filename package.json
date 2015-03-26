@@ -1,0 +1,14 @@
+{
+  "name": "starter-node-angular",
+  "main": "index.js",
+  "scripts" : {
+    "test": "say ball so hard mothertruckers trynna find me. Move so fast you lil triggers lag behind me."
+  },
+
+  "dependencies": {
+    "express": "~4.5.1",
+    "mongoose": "~3.8.0",
+    "body-parser": "~1.4.2",
+    "method-override": "~2.0.2"
+  }
+}

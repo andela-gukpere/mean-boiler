@@ -1,3 +1,3 @@
 module.exports = {
-  url: 'mongodb://localhost/yeet-db-dev'
+  url: process.env.MONGODB_URL || 'mongodb://localhost/mean-boiler-dev'
 };

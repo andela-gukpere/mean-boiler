@@ -1,0 +1,12 @@
+dependencies:
+ pre:
+  - bower install
+ post:
+  - npm install
+test:
+  override:
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: mean-boiler
